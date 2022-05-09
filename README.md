@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @movmovmovmov
-- 👀 I’m interested in ... game😂
-- 🌱 I’m currently learning ... java
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 매일 매일 바쁜 개발자되기
 
 <!---
 movmovmovmov/movmovmovmov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
