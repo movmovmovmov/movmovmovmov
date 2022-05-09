@@ -1,4 +1,4 @@
-- 매일 매일 바쁜 개발자되기
+매일 바쁜 개발자😂
 
 <!---
 movmovmovmov/movmovmovmov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
