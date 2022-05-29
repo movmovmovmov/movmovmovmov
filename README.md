@@ -5,6 +5,9 @@
 <div align="center">
   <H1>Hi! Nice to see you🥰<br/><br/>
     I'm EunjiKim</H1><br/><br/>
-  ![tumblr_n830sad4Xt1tqpncho4_500](https://user-images.githubusercontent.com/90446559/170848938-ae5a24cb-62cf-4c62-9da3-af8054d743f6.gif)
+  
+  ![tumblr_n830sad4Xt1tqpncho4_500](https://user-images.githubusercontent.com/90446559/170848969-672e70f4-9d4a-4eda-b1eb-178fabd6e850.gif)
+
+  
  <!-- <H3>Stack</H3> -->
 </div>
