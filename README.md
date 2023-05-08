@@ -8,7 +8,7 @@
     <H3>𝙸 𝚠𝚘𝚛𝚔 𝚊𝚜 𝚊 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛,<br/>
       📚𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚝𝚘 𝚋𝚎𝚌𝚘𝚖𝚎 𝚊 𝚏𝚞𝚕𝚕-𝚝𝚎𝚌𝚑 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛</H3><br/><br/>
   
-  ![tumblr_n830sad4Xt1tqpncho4_500](https://user-images.githubusercontent.com/90446559/170848969-672e70f4-9d4a-4eda-b1eb-178fabd6e850.gif)
+  <!--![tumblr_n830sad4Xt1tqpncho4_500](https://user-images.githubusercontent.com/90446559/170848969-672e70f4-9d4a-4eda-b1eb-178fabd6e850.gif)-->
 
   
  <H2>𝚂𝚝𝚊𝚌𝚔🛠️</H2><br/>
